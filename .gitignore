@@ -1,0 +1,6 @@
+# Ignorar dados MNIST baixados
+MNIST_data/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
